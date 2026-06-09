@@ -1,0 +1,106 @@
+"message":"    at require (node:internal/modules/helpers:177:18)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019044596Z"}
+{"message":"}","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019046553Z"}
+{"message":"    at Object.<anonymous> (/app/server.js:1:17)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019052171Z"}
+{"message":"    at Module._compile (node:internal/modules/cjs/loader:1364:14)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019056701Z"}
+{"message":"","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019058762Z"}
+{"message":"    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019065661Z"}
+{"message":"Node.js v18.20.5","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019068890Z"}
+{"message":"","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019071325Z"}
+{"message":"Error: Cannot find module 'express'","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019080897Z"}
+{"message":"    at Module.load (node:internal/modules/cjs/loader:1203:32)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019086223Z"}
+{"message":"Require stack:","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019089191Z"}
+{"message":"    at Module._load (node:internal/modules/cjs/loader:1019:12)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019095744Z"}
+{"message":"- /app/server.js","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019096391Z"}
+{"message":"    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12) {","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019103315Z"}
+{"message":"    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019104565Z"}
+{"message":"  code: 'MODULE_NOT_FOUND',","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019109461Z"}
+{"message":"  requireStack: [ '/app/server.js' ]","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019115643Z"}
+{"message":"    at Module._load (node:internal/modules/cjs/loader:981:27)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019117922Z"}
+{"message":"    at Module.require (node:internal/modules/cjs/loader:1231:19)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019124732Z"}
+{"message":"node:internal/modules/cjs/loader:1143","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019153644Z"}
+{"message":"  throw err;","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019159638Z"}
+{"message":"  ^","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.019165345Z"}
+{"message":"Starting Container","severity":"info","attributes":{"level":"info"},"timestamp":"2026-06-09T12:49:38.291367746Z"}
+{"message":"node:internal/modules/cjs/loader:1143","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296511901Z"}
+{"message":"","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296514837Z"}
+{"message":"  throw err;","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296518538Z"}
+{"message":"  ^","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296522337Z"}
+{"message":"Node.js v18.20.5","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296524958Z"}
+{"message":"","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296527429Z"}
+{"message":"Error: Cannot find module 'express'","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296530487Z"}
+{"message":"Require stack:","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296533719Z"}
+{"message":"- /app/server.js","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296536664Z"}
+{"message":"    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296539483Z"}
+{"message":"    at Module._load (node:internal/modules/cjs/loader:981:27)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296542872Z"}
+{"message":"    at Module.require (node:internal/modules/cjs/loader:1231:19)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296545828Z"}
+{"message":"    at require (node:internal/modules/helpers:177:18)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296548730Z"}
+{"message":"    at Object.<anonymous> (/app/server.js:1:17)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296551604Z"}
+{"message":"    at Module._compile (node:internal/modules/cjs/loader:1364:14)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296554751Z"}
+{"message":"    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296557849Z"}
+{"message":"    at Module.load (node:internal/modules/cjs/loader:1203:32)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296560529Z"}
+{"message":"    at Module._load (node:internal/modules/cjs/loader:1019:12)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296564456Z"}
+{"message":"    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12) {","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296567368Z"}
+{"message":"  code: 'MODULE_NOT_FOUND',","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296570070Z"}
+{"message":"  requireStack: [ '/app/server.js' ]","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296573249Z"}
+{"message":"}","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:38.296575963Z"}
+{"message":"Node.js v18.20.5","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081933922Z"}
+{"message":"node:internal/modules/cjs/loader:1143","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081939498Z"}
+{"message":"  throw err;","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081944661Z"}
+{"message":"  ^","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081947681Z"}
+{"message":"","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081950611Z"}
+{"message":"Error: Cannot find module 'express'","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081953556Z"}
+{"message":"Require stack:","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081956355Z"}
+{"message":"- /app/server.js","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081959100Z"}
+{"message":"    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081961915Z"}
+{"message":"    at Module._load (node:internal/modules/cjs/loader:981:27)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081964680Z"}
+{"message":"    at Module.require (node:internal/modules/cjs/loader:1231:19)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081967790Z"}
+{"message":"    at require (node:internal/modules/helpers:177:18)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081970505Z"}
+{"message":"    at Object.<anonymous> (/app/server.js:1:17)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081973690Z"}
+{"message":"    at Module._compile (node:internal/modules/cjs/loader:1364:14)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081977684Z"}
+{"message":"    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081981412Z"}
+{"message":"    at Module.load (node:internal/modules/cjs/loader:1203:32)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081985216Z"}
+{"message":"    at Module._load (node:internal/modules/cjs/loader:1019:12)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081988944Z"}
+{"message":"    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12) {","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081994310Z"}
+{"message":"  code: 'MODULE_NOT_FOUND',","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.081998498Z"}
+{"message":"  requireStack: [ '/app/server.js' ]","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.082001922Z"}
+{"message":"}","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.082004762Z"}
+{"message":"","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:39.082008514Z"}
+{"message":"node:internal/modules/cjs/loader:1143","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053809538Z"}
+{"message":"","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053814084Z"}
+{"message":"  throw err;","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053818235Z"}
+{"message":"  ^","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053824147Z"}
+{"message":"Node.js v18.20.5","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053824393Z"}
+{"message":"  code: 'MODULE_NOT_FOUND',","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053827647Z"}
+{"message":"","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053830044Z"}
+{"message":"    at Module.load (node:internal/modules/cjs/loader:1203:32)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053834718Z"}
+{"message":"Error: Cannot find module 'express'","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053835003Z"}
+{"message":"  requireStack: [ '/app/server.js' ]","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053839954Z"}
+{"message":"Require stack:","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053841547Z"}
+{"message":"- /app/server.js","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053846073Z"}
+{"message":"    at Module._load (node:internal/modules/cjs/loader:1019:12)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053849845Z"}
+{"message":"    at Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053855706Z"}
+{"message":"}","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053857305Z"}
+{"message":"    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12) {","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053860293Z"}
+{"message":"    at Module._load (node:internal/modules/cjs/loader:981:27)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053862564Z"}
+{"message":"    at Module.require (node:internal/modules/cjs/loader:1231:19)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053865965Z"}
+{"message":"    at require (node:internal/modules/helpers:177:18)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053869270Z"}
+{"message":"    at Object.<anonymous> (/app/server.js:1:17)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053872393Z"}
+{"message":"    at Module._compile (node:internal/modules/cjs/loader:1364:14)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053875932Z"}
+{"message":"    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.053878967Z"}
+{"message":"    at Module.require (node:internal/modules/cjs/loader:1231:19)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665462543Z"}
+{"message":"    at require (node:internal/modules/helpers:177:18)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665469732Z"}
+{"message":"    at Object.<anonymous> (/app/server.js:1:17)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665474307Z"}
+{"message":"    at Module._compile (node:internal/modules/cjs/loader:1364:14)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665479201Z"}
+{"message":"Node.js v18.20.5","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665480099Z"}
+{"message":"    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665485519Z"}
+{"message":"node:internal/modules/cjs/loader:1143","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665489368Z"}
+{"message":"    at Module.load (node:internal/modules/cjs/loader:1203:32)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665489778Z"}
+{"message":"    at Module._load (node:internal/modules/cjs/loader:1019:12)","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665497350Z"}
+{"message":"  throw err;","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665498307Z"}
+{"message":"    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12) {","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665501755Z"}
+{"message":"  ^","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665505330Z"}
+{"message":"  code: 'MODULE_NOT_FOUND',","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665507150Z"}
+{"message":"","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665513257Z"}
+{"message":"  requireStack: [ '/app/server.js' ]","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665514965Z"}
+{"message":"}","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665520405Z"}
+{"message":"Error: Cannot find module 'express'","severity":"error","attributes":{"level":"error"},"timestamp":"2026-06-09T12:49:40.665522645Z"}
