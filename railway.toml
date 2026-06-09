@@ -1,6 +1,6 @@
 [build]
 builder = "nixpacks"
-buildCommand = "npm install --include=dev"
+buildCommand = "yarn install --frozen-lockfile"
 
 [deploy]
 startCommand = "node server.js"
