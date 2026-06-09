@@ -1,7 +1,2 @@
-[build]
-builder = "nixpacks"
-buildCommand = "yarn install --frozen-lockfile"
-
 [deploy]
-startCommand = "node server.js"
 restartPolicyType = "on_failure"
